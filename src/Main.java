@@ -9,4 +9,5 @@ public class Main {
         int guess= scanner.nextInt();
            ;
         }
+        System.out.println("Сумма равна")
     }
